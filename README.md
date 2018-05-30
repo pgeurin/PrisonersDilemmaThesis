@@ -1,6 +1,8 @@
 # PrisonersDilemmaThesis
 Iterated prisoners dilemma in C++. Agents percieve more loss than they actually have. I investigated to see if this creates cyclical stock market bubble like behavior. It doesn't.
 
+## Procedure
+
 "Players" (Simulated players) will play prisoners dilemma according to these payoffs.
 
 <img src="img/PreGamingPresentationPhilipGeurinAugest2010d/Slide11.png" width="400"/>
@@ -47,3 +49,7 @@ While we initially expected the models to cycle, they instead stablized. Here we
 The only bubble-like behavior is near the boundary between two strategies:
 
 <img src="img/PreGamingPresentationPhilipGeurinAugest2010d/Slide22.png" width="400"/>
+
+## Questions? Reach out!
+
+![contact_philipgeurin.png](img/contact_philipgeurin.png)
